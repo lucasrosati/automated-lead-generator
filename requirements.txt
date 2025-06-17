@@ -1,30 +1,75 @@
-# Sistema de Email Marketing Empresarial
-# Dependências principais
+# Sistema de Email Marketing Empresarial - Dependências
+# Automated Lead Generator
 
+# === CORE DEPENDENCIES ===
 # Manipulação de dados
 pandas>=2.0.0
 
-# Variáveis de ambiente
+# Configurações de ambiente
 python-dotenv>=1.0.0
 
-# Excel support (caso precise ler .xlsx)
+# Excel support
 openpyxl>=3.1.0
 
-# Email libraries (built-in Python)
-# smtplib - já incluído no Python
-# email - já incluído no Python
+# === TRACKING E ANALYTICS ===
+# Servidor web para tracking
+Flask>=2.3.0
 
-# Logging (built-in Python)
-# logging - já incluído no Python
+# Banco de dados (já incluído no Python)
+# sqlite3 - built-in
 
-# Outros utilitários
-# json - já incluído no Python
-# os - já incluído no Python
-# time - já incluído no Python
-# datetime - já incluído no Python
-# random - já incluído no Python
-# typing - já incluído no Python
+# === EMAIL E NETWORKING ===
+# SMTP (já incluído no Python)
+# smtplib - built-in
+# email - built-in
 
-# Opcional: Para análises avançadas
-# numpy>=1.24.0
-# matplotlib>=3.7.0
+# Requisições HTTP (para verificações)
+requests>=2.31.0
+
+# === ANÁLISE E RELATÓRIOS ===
+# Processamento de texto
+beautifulsoup4>=4.12.0
+
+# Análise de user agents
+user-agents>=2.2.0
+
+# === MONITORAMENTO ===
+# Verificação de sistema
+psutil>=5.9.0
+
+# === DESENVOLVIMENTO ===
+# Formatação de código (opcional)
+black>=23.0.0
+
+# Linting (opcional)
+flake8>=6.0.0
+
+# === UTILITÁRIOS ===
+# Manipulação de datas
+python-dateutil>=2.8.2
+
+# Expressões regulares avançadas
+regex>=2023.0.0
+
+# === VISUALIZAÇÃO (OPCIONAL) ===
+# Gráficos para relatórios avançados
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# === SEGURANÇA ===
+# Criptografia para tokens
+cryptography>=41.0.0
+
+# === NGROK (PARA TRACKING EXTERNO) ===
+# Tunneling para servidor local
+pyngrok>=6.0.0
+
+# === COMPATIBILIDADE ===
+# Suporte a timezone
+pytz>=2023.3
+
+# Encoding detection
+chardet>=5.0.0
+
+# === VERSÕES MÍNIMAS PYTHON ===
+# Python >= 3.8 requerido
