@@ -1,0 +1,54 @@
+{
+  "enviados": 8,
+  "falharam": 0,
+  "detalhes": [
+    {
+      "empresa": "Teste 1",
+      "email": "lucasrosati@hotmail.com",
+      "status": "enviado",
+      "horario": "2025-06-16T17:25:30.681820"
+    },
+    {
+      "empresa": "Teste 2",
+      "email": "lrcp@cesar.school",
+      "status": "enviado",
+      "horario": "2025-06-16T17:30:34.510838"
+    },
+    {
+      "empresa": "Teste 3",
+      "email": "engjacp@gmail.com",
+      "status": "enviado",
+      "horario": "2025-06-16T17:35:39.450362"
+    },
+    {
+      "empresa": "Teste 4",
+      "email": "condominioduke@gmail.com",
+      "status": "enviado",
+      "horario": "2025-06-16T17:40:43.133340"
+    },
+    {
+      "empresa": "Teste 5",
+      "email": "phdservicetelecom@gmail.com",
+      "status": "enviado",
+      "horario": "2025-06-16T17:45:47.043517"
+    },
+    {
+      "empresa": "Teste 6",
+      "email": "lucasrosati@gmail.com",
+      "status": "enviado",
+      "horario": "2025-06-16T17:50:50.796414"
+    },
+    {
+      "empresa": "Teste 7",
+      "email": "lucasrosatihustler@gmail.com",
+      "status": "enviado",
+      "horario": "2025-06-16T17:55:54.835470"
+    },
+    {
+      "empresa": "Teste 8",
+      "email": "redibsmumixam@msn.com",
+      "status": "enviado",
+      "horario": "2025-06-16T18:00:58.671063"
+    }
+  ]
+}

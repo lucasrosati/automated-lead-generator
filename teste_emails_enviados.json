@@ -1,0 +1,56 @@
+{
+  "total_empresas": 8,
+  "enviados_sucesso": 8,
+  "falharam": 0,
+  "sem_email": 0,
+  "detalhes": [
+    {
+      "empresa": "Teste 1",
+      "status": "enviado",
+      "email": "lucasrosati@hotmail.com",
+      "prioridade": 1
+    },
+    {
+      "empresa": "Teste 2",
+      "status": "enviado",
+      "email": "lrcp@cesar.school",
+      "prioridade": 1
+    },
+    {
+      "empresa": "Teste 3",
+      "status": "enviado",
+      "email": "engjacp@gmail.com",
+      "prioridade": 1
+    },
+    {
+      "empresa": "Teste 4",
+      "status": "enviado",
+      "email": "condominioduke@gmail.com",
+      "prioridade": 1
+    },
+    {
+      "empresa": "Teste 5",
+      "status": "enviado",
+      "email": "phdservicetelecom@gmail.com",
+      "prioridade": 1
+    },
+    {
+      "empresa": "Teste 6",
+      "status": "enviado",
+      "email": "lucasrosati@gmail.com",
+      "prioridade": 1
+    },
+    {
+      "empresa": "Teste 7",
+      "status": "enviado",
+      "email": "lucasrosatihustler@gmail.com",
+      "prioridade": 1
+    },
+    {
+      "empresa": "Teste 8",
+      "status": "enviado",
+      "email": "redibsmumixam@msn.com",
+      "prioridade": 1
+    }
+  ]
+}

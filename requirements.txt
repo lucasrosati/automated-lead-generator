@@ -1,0 +1,30 @@
+# Sistema de Email Marketing Empresarial
+# Dependências principais
+
+# Manipulação de dados
+pandas>=2.0.0
+
+# Variáveis de ambiente
+python-dotenv>=1.0.0
+
+# Excel support (caso precise ler .xlsx)
+openpyxl>=3.1.0
+
+# Email libraries (built-in Python)
+# smtplib - já incluído no Python
+# email - já incluído no Python
+
+# Logging (built-in Python)
+# logging - já incluído no Python
+
+# Outros utilitários
+# json - já incluído no Python
+# os - já incluído no Python
+# time - já incluído no Python
+# datetime - já incluído no Python
+# random - já incluído no Python
+# typing - já incluído no Python
+
+# Opcional: Para análises avançadas
+# numpy>=1.24.0
+# matplotlib>=3.7.0

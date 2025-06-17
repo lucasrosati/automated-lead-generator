@@ -1,0 +1,32 @@
+# Ambientes virtuais
+venv/
+.env
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Arquivos de log e banco temporários
+*.log
+*.sqlite3
+
+# Arquivos CSV específicos do projeto
+contatos_proposta.csv
+contatos_teste_proposta.csv
+
+# Arquivos JSON de saída/teste
+teste_emails_enviados.json
+teste_antispam_resultados.json
+
+# Arquivos de configuração locais
+*.env
+*.DS_Store
+
+# Diretórios de build/compilação
+build/
+dist/
+*.egg-info/
+
+# VSCode settings (opcional)
+.vscode/
